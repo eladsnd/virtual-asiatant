@@ -1,4 +1,4 @@
-# virtueal-asiatant
+# virtual-asiatant
 This project is creating a personal asistant using speech_recognition and pyttsx3
 
 # in this project i used the folowing modules:
