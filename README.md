@@ -7,7 +7,6 @@ This project is creating a personal asistant using speech_recognition and pyttsx
     * webbrowser
     * datetime
     * pywhatkit
-    * os
     * yfinance
     * pyjokes
     * wikipedia
